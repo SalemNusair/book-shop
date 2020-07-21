@@ -1,2 +1,1 @@
-# book-shop
-This website just practice html and css using primo
+# Built with [primo](https://primo.so)
